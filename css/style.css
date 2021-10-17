@@ -1,0 +1,68 @@
+body{
+    background: url(../image/game.jpg)  center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  
+}
+.all{
+ background: rgba(0, 0, 0, .6);
+  
+ padding-top: 100px;
+ padding-bottom:159px;
+}
+
+.butn {
+margin-top: 100px;
+}
+.par3,.inp3,.lblb1,.lblb2 {
+margin-top: 20px;
+}
+.butn,.par3,.inp3 ,.reset {
+display: flex;
+justify-content: center;
+}
+
+.btnall,.btncom{
+margin-right: 20px;
+width:80px;
+height:40px;
+	border:0px solid;
+	border-radius:4px;
+background-image: linear-gradient( 135deg, #FFE985 10%, #FA742B 100%);
+}
+
+.lblb1,.lblb2{
+margin-left: 37%;
+}
+
+.par1 ,.par2{
+	display: inline;
+	color:#fff;
+}
+.par3{
+	color:#fff;
+}
+
+.inp1{
+margin-left: 28px;
+
+}
+.inp1,.inp2,#inp3{
+border-radius:6px;
+border:.5px solid;
+background-color: #eee;
+width:90px;
+
+}
+
+
+.btn1{
+	width:120px;
+	height: 40px;
+    margin-top:30px;
+	border:0px solid;
+	border-radius:4px;
+	background-image: linear-gradient( 135deg, #79F1A4 10%, #0E5CAD 100%);
+}
+
